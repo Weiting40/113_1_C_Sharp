@@ -31,7 +31,7 @@
             label1 = new Label();
             label2 = new Label();
             label3 = new Label();
-            textBox2 = new TextBox();
+            txtLastName = new TextBox();
             txtFirstName = new TextBox();
             lblshow = new Label();
             btnConfirm_Click = new Button();
@@ -67,14 +67,14 @@
             label3.TabIndex = 2;
             label3.Text = "Full Name:";
             // 
-            // textBox2
+            // txtLastName
             // 
-            textBox2.Font = new Font("Microsoft JhengHei UI", 24F);
-            textBox2.Location = new Point(275, 187);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(215, 48);
-            textBox2.TabIndex = 25;
-            textBox2.TextChanged += textBox2_TextChanged;
+            txtLastName.Font = new Font("Microsoft JhengHei UI", 24F);
+            txtLastName.Location = new Point(275, 187);
+            txtLastName.Name = "txtLastName";
+            txtLastName.Size = new Size(215, 48);
+            txtLastName.TabIndex = 25;
+            txtLastName.TextChanged += textBox2_TextChanged;
             // 
             // txtFirstName
             // 
@@ -112,7 +112,7 @@
             Controls.Add(btnConfirm_Click);
             Controls.Add(lblshow);
             Controls.Add(txtFirstName);
-            Controls.Add(textBox2);
+            Controls.Add(txtLastName);
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
@@ -127,7 +127,7 @@
         private Label label1;
         private Label label2;
         private Label label3;
-        private TextBox textBox2;
+        private TextBox txtLastName;
         private TextBox txtFirstName;
         private Label lblshow;
         private Button btnConfirm_Click;
