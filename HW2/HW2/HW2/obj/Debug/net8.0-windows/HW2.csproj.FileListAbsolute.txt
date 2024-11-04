@@ -1,0 +1,17 @@
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\bin\Debug\net8.0-windows\HW2.exe
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\bin\Debug\net8.0-windows\HW2.deps.json
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\bin\Debug\net8.0-windows\HW2.runtimeconfig.json
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\bin\Debug\net8.0-windows\HW2.dll
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\bin\Debug\net8.0-windows\HW2.pdb
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\HW2.Form1.resources
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\HW2.csproj.GenerateResource.cache
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\HW2.AssemblyInfoInputs.cache
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\HW2.AssemblyInfo.cs
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\HW2.csproj.CoreCompileInputs.cache
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\HW2.sourcelink.json
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\HW2.dll
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\refint\HW2.dll
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\HW2.pdb
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\HW2.genruntimeconfig.cache
+C:\Users\王韋婷\Desktop\113_1_C_Sharp\113_1_C_Sharp\HW2\HW2\HW2\obj\Debug\net8.0-windows\ref\HW2.dll
