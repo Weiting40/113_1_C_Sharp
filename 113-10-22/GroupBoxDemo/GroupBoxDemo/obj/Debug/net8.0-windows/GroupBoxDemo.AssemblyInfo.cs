@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroupBoxDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3097aa54253dbd5136cac33fa9e8bc85be3e960a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d99c69a6ebd761f361bcffd59f1f96383faa4fc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroupBoxDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroupBoxDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
