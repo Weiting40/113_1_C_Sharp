@@ -1,0 +1,17 @@
+D:\113_1_C_Sharp\HW3\HW3\bin\Debug\net8.0-windows\HW3.exe
+D:\113_1_C_Sharp\HW3\HW3\bin\Debug\net8.0-windows\HW3.deps.json
+D:\113_1_C_Sharp\HW3\HW3\bin\Debug\net8.0-windows\HW3.runtimeconfig.json
+D:\113_1_C_Sharp\HW3\HW3\bin\Debug\net8.0-windows\HW3.dll
+D:\113_1_C_Sharp\HW3\HW3\bin\Debug\net8.0-windows\HW3.pdb
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\HW3.Form1.resources
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\HW3.csproj.GenerateResource.cache
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\HW3.GeneratedMSBuildEditorConfig.editorconfig
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\HW3.AssemblyInfoInputs.cache
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\HW3.AssemblyInfo.cs
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\HW3.csproj.CoreCompileInputs.cache
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\HW3.sourcelink.json
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\HW3.dll
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\refint\HW3.dll
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\HW3.pdb
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\HW3.genruntimeconfig.cache
+D:\113_1_C_Sharp\HW3\HW3\obj\Debug\net8.0-windows\ref\HW3.dll
